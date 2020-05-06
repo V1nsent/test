@@ -8,7 +8,7 @@
 // console.log(typeof(+null));
 
     let incr = true,
-    decr = false;
+    decr = true;
 
     // console.log(incr++);
     // console.log(incr);
